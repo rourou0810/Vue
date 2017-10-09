@@ -1,0 +1,45 @@
+@media (min-width: 768px){
+	html{
+		font-size: 100px !important;
+	}
+	/*.swiper-container img{
+		margin: 0 10px;
+	}*/
+}
+@media (max-width: 414px) and (min-width: 376px) {
+	html{
+		font-size: 55.2px !important;
+	}
+}
+@media (max-width: 375px) and (min-width: 321px) {
+	html{
+		font-size: 50px !important;
+	}
+}
+@media (max-width: 320px) {
+	html{
+		font-size: 42.667px !important;
+	}
+}
+*{
+	padding:0;
+	margin: 0;
+}
+html,body{
+	font-family: "微软雅黑";
+	box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+	background-color: #f5edf0;
+}
+body{
+	max-width: 768px;
+	margin: 0 auto;
+}
+ul,li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color:#000;
+}

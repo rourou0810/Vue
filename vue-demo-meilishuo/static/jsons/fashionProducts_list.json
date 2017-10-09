@@ -1,0 +1,411 @@
+{
+  "success": true,
+  "returnCode": "1001",
+  "returnMessage": null,
+  "data": {
+    "total": 272009,
+    "title": "美丽说wap首页",
+    "sort": "pop",
+    "isEnd": false,
+    "cpc_offset": 0,
+    "param": {
+      "_mgjuuid": "2c4f05fb-2876-4dae-97cf-cfbd975516a0",
+      "sort": "pop",
+      "ptpWallCpc": "_wall_cpc",
+      "section": "0",
+      "ptpWallDoc": "_wall_docs",
+      "cpc_offset": 0,
+      "eventId": 70003,
+      "cKey": "wap-index",
+      "page": "1",
+      "fcid": "10057922",
+      "cpcEventId": 70005,
+      "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+      "minPrice": "5"
+    },
+    "page": 1,
+    "list": [
+      {
+        "orgPrice": "￥65.00",
+        "acm": "3.ms.0_4_1kjxz1e.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "iid": "1kjxz1e",
+        "link": "http://item.meilishuo.com/h5/detail/1kjxz1e?acm=3.ms.0_4_1kjxz1e.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kjxz1e?acm=3.ms.0_4_1kjxz1e.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "itemType": 10,
+        "popularStar": 0,
+        "cparam": null,
+        "itemMarks": "135 107",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-01.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 39,
+        "title": "秋冬新款卫衣长袖半高领撞色英文 TY清新bf上衣",
+        "cfav": 600,
+        "price": "65.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-01.png",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "秋冬新款卫衣长袖半高领撞色英文 TY清新bf上衣"
+        ]
+      },
+      {
+        "orgPrice": "￥69.38",
+        "acm": "3.ms.0_4_1kjzju6.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "iid": "1kjzju6",
+        "link": "http://item.meilishuo.com/h5/detail/1kjzju6?acm=3.ms.0_4_1kjzju6.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kjzju6?acm=3.ms.0_4_1kjzju6.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "itemType": 10,
+        "popularStar": 0,
+        "cparam": null,
+        "itemMarks": "135 159",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-02.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 42,
+        "title": "2017秋上新百搭长袖口袋圆领磨边针织衫毛衣上衣女",
+        "cfav": 533,
+        "price": "69.38",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-02.png",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "2017秋上新百搭长袖口袋圆领磨边针织衫毛衣上衣女"
+        ]
+      },
+      {
+        "orgPrice": "￥84.29",
+        "acm": "3.ms.1_1_1kirirg.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_278167207_339318118_1_0-c1_10057922_nil_nil_1_339318118_46",
+        "iid": "1kirirg",
+        "link": "http://item.meilishuo.com/h5/detail/1kirirg?acm=3.ms.1_1_1kirirg.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_278167207_339318118_1_0-c1_10057922_nil_nil_1_339318118_46&cparam=MTUwNzUzMzcxOV8xOTc4NmZhXzIzODczN2U4OThkNDIxOTgyMDI1ZGJlNzAxN2FjZWFhXzMyXzBfMjc4MTY3MjA3XzBfMzM5MzE4MTE4XzFfMF84NF8wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kirirg?acm=3.ms.1_1_1kirirg.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_278167207_339318118_1_0-c1_10057922_nil_nil_1_339318118_46&cparam=MTUwNzUzMzcxOV8xOTc4NmZhXzIzODczN2U4OThkNDIxOTgyMDI1ZGJlNzAxN2FjZWFhXzMyXzBfMjc4MTY3MjA3XzBfMzM5MzE4MTE4XzFfMF84NF8wXzA=",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTUwNzUzMzcxOV8xOTc4NmZhXzIzODczN2U4OThkNDIxOTgyMDI1ZGJlNzAxN2FjZWFhXzMyXzBfMjc4MTY3MjA3XzBfMzM5MzE4MTE4XzFfMF84NF8wXzA=",
+        "itemMarks": "-1",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-03.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "141",
+        "title": "2017新款秋冬加厚包臀毛呢格子裙复古半身裙韩版高腰A字短裙",
+        "cfav": "1268",
+        "price": "59.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "21935540",
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-03.png",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "2017新款秋冬加厚包臀毛呢格子裙复古半身裙韩版高腰A字短裙"
+        ]
+      },
+      {
+        "orgPrice": "￥42.72",
+        "acm": "3.ms.1_1_1kjrhog.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_266679428_344569378_2_0-c1_10057922_nil_nil_1_344569378_45",
+        "iid": "1kjrhog",
+        "link": "http://item.meilishuo.com/h5/detail/1kjrhog?acm=3.ms.1_1_1kjrhog.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_266679428_344569378_2_0-c1_10057922_nil_nil_1_344569378_45&cparam=MTUwNzUzMzcxOV8xOHRqcWRjXzI0MDNlODk5NWNiZjhmNjU5YjI1ZDhhY2JmMDkxNTEyXzMyXzFfMjY2Njc5NDI4XzBfMzQ0NTY5Mzc4XzJfMF80MTNfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kjrhog?acm=3.ms.1_1_1kjrhog.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_266679428_344569378_2_0-c1_10057922_nil_nil_1_344569378_45&cparam=MTUwNzUzMzcxOV8xOHRqcWRjXzI0MDNlODk5NWNiZjhmNjU5YjI1ZDhhY2JmMDkxNTEyXzMyXzFfMjY2Njc5NDI4XzBfMzQ0NTY5Mzc4XzJfMF80MTNfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTUwNzUzMzcxOV8xOHRqcWRjXzI0MDNlODk5NWNiZjhmNjU5YjI1ZDhhY2JmMDkxNTEyXzMyXzFfMjY2Njc5NDI4XzBfMzQ0NTY5Mzc4XzJfMF80MTNfMF8w",
+        "itemMarks": "82",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-04.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "26",
+        "title": "秋冬装新款纯棉打底衫长袖白色t恤女韩版修身字母印花圆领上衣服",
+        "cfav": "31",
+        "price": "29.90",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "21951700",
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-04.png",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "秋冬装新款纯棉打底衫长袖白色t恤女韩版修身字母印花圆领上衣服"
+        ]
+      },
+      {
+        "orgPrice": "￥106.25",
+        "acm": "3.ms.0_4_1kjxvn0.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "iid": "1kjxvn0",
+        "link": "http://item.meilishuo.com/h5/detail/1kjxvn0?acm=3.ms.0_4_1kjxvn0.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kjxvn0?acm=3.ms.0_4_1kjxvn0.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "itemType": 10,
+        "popularStar": 0,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-05.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 197,
+        "title": "秋季新品韩版气质宽松显瘦纯色大码中长款风衣外套西装茧型大衣女",
+        "cfav": 1395,
+        "price": "106.25",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-05.png",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "秋季新品韩版气质宽松显瘦纯色大码中长款风衣外套西装茧型大衣女"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.0_4_1kjxpz2.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "iid": "1kjxpz2",
+        "link": "http://item.meilishuo.com/h5/detail/1kjxpz2?acm=3.ms.0_4_1kjxpz2.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kjxpz2?acm=3.ms.0_4_1kjxpz2.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "itemType": 10,
+        "popularStar": 0,
+        "cparam": null,
+        "itemMarks": "135 107",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-01.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 44,
+        "title": "2017新款圆领长袖女短款学生前短后长宽松流苏打底毛衣",
+        "cfav": 348,
+        "price": "68.75",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-01.png",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "2017新款圆领长袖女短款学生前短后长宽松流苏打底毛衣"
+        ]
+      },
+      {
+        "orgPrice": "￥40.00",
+        "acm": "3.ms.1_1_1k5p8jg.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_276159110_212397342_3_0-c1_10057922_nil_nil_1_212397342_41",
+        "iid": "1k5p8jg",
+        "link": "http://item.meilishuo.com/h5/detail/1k5p8jg?acm=3.ms.1_1_1k5p8jg.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_276159110_212397342_3_0-c1_10057922_nil_nil_1_212397342_41&cparam=MTUwNzUzMzcxOV8xOTR1M2ljX2RmZTA5OWNhY2Q0YzYxMTZhZjU5YTAyNzhjYjA2ZTNiXzMyXzJfMjc2MTU5MTEwXzBfMjEyMzk3MzQyXzNfMF85MDVfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k5p8jg?acm=3.ms.1_1_1k5p8jg.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_276159110_212397342_3_0-c1_10057922_nil_nil_1_212397342_41&cparam=MTUwNzUzMzcxOV8xOTR1M2ljX2RmZTA5OWNhY2Q0YzYxMTZhZjU5YTAyNzhjYjA2ZTNiXzMyXzJfMjc2MTU5MTEwXzBfMjEyMzk3MzQyXzNfMF85MDVfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTUwNzUzMzcxOV8xOTR1M2ljX2RmZTA5OWNhY2Q0YzYxMTZhZjU5YTAyNzhjYjA2ZTNiXzMyXzJfMjc2MTU5MTEwXzBfMjEyMzk3MzQyXzNfMF85MDVfMF8w",
+        "itemMarks": "62",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-02.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "1343",
+        "title": "韩国新款纯棉短款T恤女长袖上衣女装学生破洞印花打底衫女百搭",
+        "cfav": "5457",
+        "price": "28.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "21463453",
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-02.png",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "韩国新款纯棉短款T恤女长袖上衣女装学生破洞印花打底衫女百搭"
+        ]
+      },
+      {
+        "orgPrice": "￥42.72",
+        "acm": "3.ms.1_1_1kju53k.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_275665729_344882878_4_0-c1_10057922_nil_nil_1_344882878_41",
+        "iid": "1kju53k",
+        "link": "http://item.meilishuo.com/h5/detail/1kju53k?acm=3.ms.1_1_1kju53k.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_275665729_344882878_4_0-c1_10057922_nil_nil_1_344882878_41&cparam=MTUwNzUzMzcxOV8xOTQ4eTRhXzRkM2Q0YTcyOGNlMDhjYTUwODdkNzAzNGEwNTY0NDRhXzMyXzNfMjc1NjY1NzI5XzBfMzQ0ODgyODc4XzRfMF80MTNfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kju53k?acm=3.ms.1_1_1kju53k.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_275665729_344882878_4_0-c1_10057922_nil_nil_1_344882878_41&cparam=MTUwNzUzMzcxOV8xOTQ4eTRhXzRkM2Q0YTcyOGNlMDhjYTUwODdkNzAzNGEwNTY0NDRhXzMyXzNfMjc1NjY1NzI5XzBfMzQ0ODgyODc4XzRfMF80MTNfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTUwNzUzMzcxOV8xOTQ4eTRhXzRkM2Q0YTcyOGNlMDhjYTUwODdkNzAzNGEwNTY0NDRhXzMyXzNfMjc1NjY1NzI5XzBfMzQ0ODgyODc4XzRfMF80MTNfMF8w",
+        "itemMarks": "82",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-03.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "36",
+        "title": "纯棉韩版新款字母刺绣长袖t恤女修身圆领上衣百搭学生装打底衫潮",
+        "cfav": "43",
+        "price": "29.90",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "21951700",
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-03.png",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "纯棉韩版新款字母刺绣长袖t恤女修身圆领上衣百搭学生装打底衫潮"
+        ]
+      },
+      {
+        "orgPrice": "￥56.00",
+        "acm": "3.ms.1_1_1jvh18y.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_259160637_0_5_0-c1_10057922_nil_nil_0_0_41",
+        "iid": "1jvh18y",
+        "link": "http://item.meilishuo.com/h5/detail/1jvh18y?acm=3.ms.1_1_1jvh18y.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_259160637_0_5_0-c1_10057922_nil_nil_0_0_41&cparam=MTUwNzUzMzcxOV8xOGtsZmFxXzY5OTE5ZGIwMGU3NzEzZTk0MmJjY2QxYTFjZDVlMjMzXzMyXzRfMjU5MTYwNjM3XzBfMF81XzBfNTg4XzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1jvh18y?acm=3.ms.1_1_1jvh18y.1.37636-25176.05NORqxxvQUro.t_-lc_32-c_2_32_259160637_0_5_0-c1_10057922_nil_nil_0_0_41&cparam=MTUwNzUzMzcxOV8xOGtsZmFxXzY5OTE5ZGIwMGU3NzEzZTk0MmJjY2QxYTFjZDVlMjMzXzMyXzRfMjU5MTYwNjM3XzBfMF81XzBfNTg4XzBfMA==",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTUwNzUzMzcxOV8xOGtsZmFxXzY5OTE5ZGIwMGU3NzEzZTk0MmJjY2QxYTFjZDVlMjMzXzMyXzRfMjU5MTYwNjM3XzBfMF81XzBfNTg4XzBfMA==",
+        "itemMarks": "-1",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-04.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "1334",
+        "title": "韩版新款白色衬衫女修身长袖职业装正装大码面试工作服女装上衣",
+        "cfav": "2561",
+        "price": "39.20",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": "108922",
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-04.png",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "韩版新款白色衬衫女修身长袖职业装正装大码面试工作服女装上衣"
+        ]
+      },
+      {
+        "orgPrice": "￥65.00",
+        "acm": "3.ms.0_4_1kjxz1e.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "iid": "1kjxz1e",
+        "link": "http://item.meilishuo.com/h5/detail/1kjxz1e?acm=3.ms.0_4_1kjxz1e.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kjxz1e?acm=3.ms.0_4_1kjxz1e.0.54621-25176.05NORqxxvQUro.t_-lc_16",
+        "itemType": 10,
+        "popularStar": 0,
+        "cparam": null,
+        "itemMarks": "135 107",
+        "show": {
+          "w": 320,
+          "img": "static/jsons/images/imglist/imglist-01.png",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 39,
+        "title": "秋冬新款卫衣长袖半高领撞色英文 TY清新bf上衣",
+        "cfav": 600,
+        "price": "65.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [],
+        "shopId": 1302161088,
+        "titleTags": null,
+        "showLarge": {
+          "img": "static/jsons/images/imglist/imglist-01.png",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "秋冬新款卫衣长袖半高领撞色英文 TY清新bf上衣"
+        ]
+      }
+    ],
+    "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+    "filter": {
+      "title": "美丽说wap首页",
+      "list": [
+        {
+          "title": "流行",
+          "sort": "pop",
+          "style": null,
+          "fcid": "10057922",
+          "type": "sort"
+        },
+        {
+          "title": "热销",
+          "sort": "sell",
+          "style": null,
+          "fcid": "10057922",
+          "type": "sort"
+        },
+        {
+          "title": "上新",
+          "sort": "new",
+          "style": null,
+          "fcid": "10057922",
+          "type": "sort"
+        }
+      ]
+    }
+  }
+}
