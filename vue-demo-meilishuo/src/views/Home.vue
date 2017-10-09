@@ -53,13 +53,13 @@
 
       <div class="home-two">
         <div class="imglist-nav" id="imglist-nav">
-          <a href="javascript:;" class="active"><span>流行</span></a>
-          <a href="javascript:;"><span>新款</span></a>
-          <a href="javascript:;"><span>精选</span></a>
+          <a href="javascript:;"  v-for="(item,index) in productsList.filter.list" :key="index" :class="[index==isActive?'active':'']" @click="changeNav(index)">
+            <span>{{item.title}}</span>
+          </a>
         </div>
         <div class="image-list">
-          <div class="image-list-item" v-for="(product,index) in productsList" :key="index">
-            <a href="#">
+          <div class="image-list-item" v-for="(product,index) in productsList.list" :key="index">
+            <a href="javascript:;">
               <div>
                 <img :src="product.show.img">
               </div>
@@ -85,6 +85,7 @@
   export default {
     data () {
       return {
+        isActive: 0,
         productsList: []
       }
     },
@@ -106,14 +107,28 @@
 
         }) 
       },
-      getProductsList () {
-        this.$http.get('static/jsons/fashionProducts_list.json').then((res) => {
-          console.log(res);
+      changeHttpUrl (url) {
+        this.$http.get(url).then((res) => {
           res = res.body;
           if(res.success === true) {
-            this.productsList = res.data.list;
+            this.productsList = res.data;
           }
         })
+      },
+      getProductsList () {
+        this.changeHttpUrl('static/jsons/fashionProducts_list.json');
+      },
+      changeNav (index) {
+        this.isActive = index;
+        if(index == 0) {
+          this.getProductsList();
+        }
+        if(index == 1) {
+          this.changeHttpUrl('static/jsons/newProducts_list.json');
+        }
+        if(index == 2) {
+          this.changeHttpUrl('static/jsons/hotProducts_list.json');
+        }
       }
     },
     components : { HeadSearch,FooterNav }
