@@ -18,7 +18,8 @@
 	}
 	.left-logo{
 		float: left;
-		width: 0.58rem;
+		/*width: 0.58rem;*/
+		width: 7%;
 		height: 0.9rem;
 		margin: 0 .3rem;
 		background: url("../../assets/images/logo.png") no-repeat center;
@@ -31,7 +32,8 @@
 	    color: #333;
 	    border: none;
 	    padding: .15rem .15rem .15rem .55rem;
-	    width: 5.3rem;
+	    /*width: 5.3rem;*/
+	    width: 70%;
 	    border-radius: 0.1rem;
 	    margin-bottom: 0.16rem;
 	    margin-top: 0.16rem;
@@ -44,7 +46,8 @@
 	.right-btn {
 	    float: left;
 	    margin-top: 0.15rem;
-	    width: 0.98rem;
+	    /*width: 0.98rem;*/
+	    width: 13%;
 	    height: 0.56rem;
 	    line-height: 0.56rem;
 	    text-align: center;

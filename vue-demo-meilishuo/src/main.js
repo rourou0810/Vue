@@ -12,9 +12,15 @@ Vue.use(router)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
-new Vue({
+/*new Vue({
   el: '#app',
   router,
   template: '<App/>',
   components: { App }
+})*/
+//挂在到vue实例上
+new Vue({
+ router,
+ el: '#app',
+ render: h => h(App)
 })
