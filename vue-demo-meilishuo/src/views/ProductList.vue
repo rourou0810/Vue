@@ -8,7 +8,7 @@
         </div>
         <div class="image-list">
           <div class="image-list-item" v-for="(product,index) in productsList.list" :key="index">
-            <a href="javascript:;">
+            <router-link :to="'/product_detail/iid='+product.iid">
               <div>
                 <img :src="product.show.img">
               </div>
@@ -16,7 +16,7 @@
               <div class="goods_info"> <span class="price_info">{{product.orgPrice}}</span>
               <span class="fav_num"><em class="no_collect_icon"></em>{{product.cfav}}</span> 
               </div>
-            </a>
+            </router-link>
           </div>
         </div>
       </div>
@@ -141,7 +141,7 @@
 }
 .image-list-item a img{
   width: 100%;
-  height: 5.27rem !important;
+  height: 5rem !important;
 }
 .image-list-item .title{
   display: block;

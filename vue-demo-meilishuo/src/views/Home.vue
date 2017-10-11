@@ -59,7 +59,7 @@
   import Swiper from '../../static/swiper-3.4.2.min.js'
   import HeadSearch from '../components/header/HeadSearch.vue'
   import ProductList from './ProductList.vue'
-  let mySwiper
+  let homeSwiper
   export default {
     mounted () { 
       this.$nextTick(function () {
@@ -69,7 +69,7 @@
     },
     methods: {
       lunbo () {
-        mySwiper = new Swiper ('.swiper-container', {
+        homeSwiper = new Swiper ('.swiper-container', {
           autoplay: 5000,
           paginationClickable :true,
           autoplayDisableOnInteraction : false,
@@ -88,7 +88,10 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
-@import url("../assets/css/swiper-3.4.2.min.css"); 
+@import url("../assets/css/swiper-3.4.2.min.css");
+html,body{
+  background-color:#f5edf0;
+} 
 .swiper-container {
     width: 100%;
     height: 3.9rem;

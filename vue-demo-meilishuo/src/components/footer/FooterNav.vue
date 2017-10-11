@@ -14,7 +14,7 @@
 					<i class="bottom-icon icon-cartbag"></i>
 					<span class="bottom-text">购物车</span>
         </router-link>
-        <router-link to="/user" class="nav-bottom-item">
+        <router-link to="/login" class="nav-bottom-item">
 					<i class="bottom-icon icon-user"></i>
 					<span class="bottom-text">我</span>
         </router-link>

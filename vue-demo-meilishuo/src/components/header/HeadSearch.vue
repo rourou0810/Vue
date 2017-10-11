@@ -33,7 +33,7 @@
 	    border: none;
 	    padding: .15rem .15rem .15rem .55rem;
 	    /*width: 5.3rem;*/
-	    width: 70%;
+	    width: 69%;
 	    border-radius: 0.1rem;
 	    margin-bottom: 0.16rem;
 	    margin-top: 0.16rem;

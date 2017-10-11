@@ -61,18 +61,20 @@
 }
 .page_head .right_btn {
   z-index: 5;
-  font-size: .4rem;
+  font-size: .35rem;
   float: right;
   padding-right: .3rem;
   height: .88rem;
+  padding-top: 0.025rem;
 }
 .page_head .title {
   z-index: 1;
   text-align: center;
 }
 .page_head .title a {
-    font-size: .4rem;
+    font-size: .35rem;
     display: block;
+    margin-top:0.05rem;
 }
 .none_info {
 	color: #666;
