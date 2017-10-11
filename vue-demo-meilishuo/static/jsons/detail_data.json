@@ -1,0 +1,526 @@
+{
+  "status": {
+    "code": 1001,
+    "msg": ""
+  },
+  "result": {
+    "skuInfo": {
+      "title": "2017秋上新百搭长袖口袋圆领磨边针织衫毛衣上衣女",
+      "skus": [
+        {
+          "stockId": "1u9ap6a",
+          "xdSkuId": "1u9ap6a",
+          "price": 6938,
+          "nowprice": 6938,
+          "img": "//s3.mogucdn.com/mlcdn/917393/170905_188fg04h374jd7kja2elg080aa7ia_640x900.jpg",
+          "currency": "￥",
+          "stock": 494,
+          "style": "酒红色",
+          "size": "均码",
+          "styleId": 1,
+          "sizeId": 100
+        },
+        {
+          "stockId": "1u9ap68",
+          "xdSkuId": "1u9ap68",
+          "price": 6938,
+          "nowprice": 6938,
+          "img": "//s3.mogucdn.com/mlcdn/917393/170907_51f9al25hcj1h2196g7lkk454c6l5_640x832.png",
+          "currency": "￥",
+          "stock": 512,
+          "style": "蓝色",
+          "size": "均码",
+          "styleId": 2,
+          "sizeId": 100
+        }
+      ],
+      "props": [
+        {
+          "label": "颜色:",
+          "list": [
+            {
+              "type": "style",
+              "name": "酒红色",
+              "isDefault": false,
+              "styleId": 1,
+              "index": 1
+            },
+            {
+              "type": "style",
+              "name": "蓝色",
+              "isDefault": false,
+              "styleId": 2,
+              "index": 2
+            }
+          ],
+          "isDefault": false
+        },
+        {
+          "label": "尺码:",
+          "list": [
+            {
+              "type": "size",
+              "name": "均码",
+              "isDefault": false,
+              "sizeId": 100,
+              "index": 100
+            }
+          ],
+          "isDefault": false
+        }
+      ],
+      "styleKey": "颜色",
+      "sizeKey": "尺码",
+      "priceRange": "¥69.38",
+      "defaultPrice": "¥69.38",
+      "isAbroad": false,
+      "totalStock": 1006
+    },
+    "itemInfo": {
+      "desc": "2017秋上新百搭长袖口袋圆领磨边针织衫毛衣上衣女   s313",
+      "userId": "1zyeb84",
+      "shopId": "1172jnw8",
+      "title": "2017秋上新百搭长袖口袋圆领磨边针织衫毛衣上衣女",
+      "discountDesc": "",
+      "discountBgColor": "#f13e3a",
+      "lowPrice": "69.38",
+      "highPrice": "69.38",
+      "lowNowPrice": "69.38",
+      "highNowPrice": "69.38",
+      "iid": "1kjzju6",
+      "isSelf": false,
+      "isFaved": false,
+      "imUrl": "mls://imTalk?&source=1&goodsId=1kjzju6&userId=1zyeb84&shopId=1172jnw8",
+      "state": 0,
+      "topImages": [
+        "//s3.mogucdn.com/mlcdn/917393/170905_188fg04h374jd7kja2elg080aa7ia_640x900.jpg",
+        "//s3.mogucdn.com/mlcdn/917393/170905_25g7d32d5jch4ak6f3kckle4b63j2_640x900.jpg",
+        "//s3.mogucdn.com/mlcdn/917393/170905_2fg4b05769663hb0ifkbdhk4b6ll4_640x900.jpg"
+      ],
+      "price": "¥69.38",
+      "saleType": 0,
+      "tags": "",
+      "inActivity": false,
+      "redPacketsSwitch": false,
+      "cFav": 0,
+      "admin": false,
+      "cids": "#682# #683# #684# #4160#",
+      "cartNum": 0,
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东 广州"
+      },
+      "addCartTips": false,
+      "isGrayUser": false,
+      "isNewComer": false
+    },
+    "topBar": {
+      "img": "//s3.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    },
+    "detailInfo": {
+      "desc": "2017秋上新百搭长袖口袋圆领磨边针织衫毛衣上衣女   s313",
+      "detailImage": [
+        {
+          "desc": "是否有弹性：微弹 是否含配件：不包含配件 ",
+          "key": "穿着效果",
+          "anchor": "model_img",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/4f85ae/170911_8eah3d9bg1936jee2bj8k559g021g_1500x300.jpg",
+            "//s11.mogucdn.com/p2/170828/upload_6f9c20930329h5hhgjck9fldkaa4j_734x178.png",
+            "//s3.mogucdn.com/mlcdn/5b8102/170828_6ejb64hg3d328h59kdh4bc55a34k5_750x750.jpg",
+            "//s17.mogucdn.com/mlcdn/5b8102/170828_1dfidbag3ch66fjhjl1ea4h5g3e17_750x750.jpg",
+            "//s3.mogucdn.com/mlcdn/5b8102/170828_4c290gb88f55khijb5285d9b1hb67_750x750.jpg",
+            "//s17.mogucdn.com/mlcdn/5b8102/170828_25ab93j9l6k49kkccbb32gb8fh8ca_750x750.jpg",
+            "//s3.mogucdn.com/mlcdn/5b8102/170828_42i9fh55j534g3e36434ailh4a31c_750x745.jpg",
+            "//s3.mogucdn.com/mlcdn/5b8102/170828_3fajcbh268b14be5k5a694kkc413b_750x745.jpg",
+            "//s11.mogucdn.com/mlcdn/5b8102/170828_15hh59adkd73ibhl48f3b3f4a9lgb_750x750.jpg",
+            "//s17.mogucdn.com/mlcdn/5b8102/170828_2322l8084751kb181i54el37818li_750x750.jpg",
+            "//s3.mogucdn.com/mlcdn/5b8102/170828_3ekfbb036c37e0dc8lfcid5d93cic_750x740.jpg",
+            "//s3.mogucdn.com/mlcdn/5b8102/170828_4i371hkh61eid13916dbal40f0e0i_750x737.jpg",
+            "//s17.mogucdn.com/mlcdn/917393/170911_69d69ah7i2608ie9iih565hj59d8e_750x742.jpg",
+            "//s11.mogucdn.com/mlcdn/917393/170911_2e15k9c5dhlc8l9di99fbg95dbf33_750x746.jpg",
+            "//s3.mogucdn.com/mlcdn/917393/170911_3a110a5k6ae8ba0ek7d0gd5d166cb_750x744.jpg",
+            "//s11.mogucdn.com/mlcdn/917393/170911_5e164cdejcjl2i31jke7kf0k6ghjd_750x745.jpg",
+            "//s3.mogucdn.com/mlcdn/917393/170911_0cjg3ife3d9iilf3ak9jhf8aj3fbe_750x743.jpg",
+            "//s17.mogucdn.com/p2/170606/upload_5f969c6jf9ic7l37fe8kch1b8ac27_750x335.png"
+          ]
+        }
+      ]
+    },
+    "columns": [
+      "销量 42",
+      "收藏535人",
+      "默认快递"
+    ],
+    "itemParams": {
+      "info": {
+        "images": [
+          "//s3.mogucdn.com/p2/170117/upload_5cgl5ffhl59bc2h21feka85j1h5fj_1125x647.jpg",
+          "//s3.mogucdn.com/p2/170118/upload_00e2357hd57g860f9khakh3a6bbbi_1125x915.png",
+          "//s11.mogucdn.com/mlcdn/4f85ae/170911_76302631gl5bf8licl48d578cb59g_1500x2706.jpg",
+          "//s3.mogucdn.com/p2/170118/upload_55c7c64956bfbd75c3ib3j4ik029b_1125x509.png"
+        ],
+        "set": [],
+        "key": "产品参数",
+        "anchor": "product_info"
+      },
+      "rule": {
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "胸围",
+              "106"
+            ],
+            [
+              "袖长",
+              "58"
+            ],
+            [
+              "衣长",
+              "51"
+            ]
+          ]
+        ],
+        "key": "尺码说明",
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+      }
+    },
+    "shopInfo": {
+      "score": [
+        {
+          "name": "描述相符",
+          "score": 4.54,
+          "isBetter": true
+        },
+        {
+          "name": "价格合理",
+          "score": 4.6,
+          "isBetter": true
+        },
+        {
+          "name": "质量满意",
+          "score": 4.52,
+          "isBetter": true
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        },
+        {
+          "icon": "http://s3.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "白付美",
+          "link": ""
+        }
+      ],
+      "categories": [
+        {
+          "name": "\b外套",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142317"
+        },
+        {
+          "name": "大衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142319"
+        },
+        {
+          "name": "棉服&羽绒服",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142320"
+        },
+        {
+          "name": "裙子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142328"
+        },
+        {
+          "name": "连衣裙",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142329"
+        },
+        {
+          "name": "半身裙",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142330"
+        },
+        {
+          "name": "裤子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142331"
+        },
+        {
+          "name": "牛仔裤",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142332"
+        },
+        {
+          "name": "裤装",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142333"
+        },
+        {
+          "name": "套装",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20142334"
+        },
+        {
+          "name": "上衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145521"
+        },
+        {
+          "name": "卫衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145526"
+        },
+        {
+          "name": "针织&毛衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145561"
+        },
+        {
+          "name": "毛衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145565"
+        },
+        {
+          "name": "针织衫",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20145566"
+        },
+        {
+          "name": "包包",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20148551"
+        },
+        {
+          "name": "配件",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20153719"
+        },
+        {
+          "name": "袜子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20153720"
+        },
+        {
+          "name": "帽子/围巾",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20153721"
+        },
+        {
+          "name": "男友",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20158510"
+        },
+        {
+          "name": "夹克&棒球服",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160576"
+        },
+        {
+          "name": "开衫",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160577"
+        },
+        {
+          "name": "风衣",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160578"
+        },
+        {
+          "name": "T恤",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160580"
+        },
+        {
+          "name": "衬衫",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160582"
+        },
+        {
+          "name": "鞋子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160606"
+        },
+        {
+          "name": "靴子",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160608"
+        },
+        {
+          "name": "雪地靴",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160610"
+        },
+        {
+          "name": "休闲鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160615"
+        },
+        {
+          "name": "新品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160658"
+        },
+        {
+          "name": "马甲",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20160682"
+        },
+        {
+          "name": "官方出品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20174424"
+        },
+        {
+          "name": "内衣/家居服",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20182588"
+        },
+        {
+          "name": "美妆",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20191582"
+        },
+        {
+          "name": "正在流行",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20194558"
+        },
+        {
+          "name": "纱~网纱~蕾丝纱~",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20194559"
+        },
+        {
+          "name": "凉鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201833"
+        },
+        {
+          "name": "单鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201834"
+        },
+        {
+          "name": "运动鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201835"
+        },
+        {
+          "name": "拖鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20201836"
+        },
+        {
+          "name": "帆布鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20202886"
+        },
+        {
+          "name": "配饰",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20208955"
+        },
+        {
+          "name": "母婴用品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209674"
+        },
+        {
+          "name": "婴童装",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209888"
+        },
+        {
+          "name": "婴童鞋",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209889"
+        },
+        {
+          "name": "孕妈妈用品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209890"
+        },
+        {
+          "name": "益智动漫玩具",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209891"
+        },
+        {
+          "name": "婴童纸巾湿巾",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209892"
+        },
+        {
+          "name": "婴童用品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209893"
+        },
+        {
+          "name": "百货",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209894"
+        },
+        {
+          "name": "玩具模型",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209895"
+        },
+        {
+          "name": "文具",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209896"
+        },
+        {
+          "name": "个人护理",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209897"
+        },
+        {
+          "name": "洗护清洁用品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209898"
+        },
+        {
+          "name": "节庆用品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209899"
+        },
+        {
+          "name": "家庭清洁",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209900"
+        },
+        {
+          "name": "日用品",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209901"
+        },
+        {
+          "name": "收纳整理",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209902"
+        },
+        {
+          "name": "烹饪用具餐具",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209903"
+        },
+        {
+          "name": "家居/家纺",
+          "link": "http://s.meilishuo.com/1172jnw8/list/index?categoryId=20209904"
+        }
+      ],
+      "cFans": 134324,
+      "cSells": 4537771,
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172jnw8",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172jnw8",
+      "isMarked": false,
+      "cGoods": 20671,
+      "userId": "1zyeb84",
+      "shopLogo": "//s3.mogucdn.com/p2/161111/hz75la_8f8kk1ff66365a77e520dckl0lb51_200x200.jpg",
+      "name": "美丽优选",
+      "shopId": "1172jnw8",
+      "type": 4,
+      "level": 3,
+      "nonsupportReasonRefound": false
+    },
+    "rate": {
+      "list": [
+        {
+          "user": {
+            "uid": "",
+            "uname": "蒋思楠",
+            "avatar": "//s17.mogucdn.com/p2/161214/103488673_825c06kdj394515kkkjhhi0el8j86_140x141.png",
+            "profileUrl": "",
+            "tagIndex": ""
+          },
+          "vipInfo": {
+            "userId": "",
+            "level": "3",
+            "url": "http://m.meilishuo.com/huiyuan/card",
+            "icon": "https://s2.mogucdn.com/mlcdn/c024f5/170807_2iiiki683kccac9if80f2004l5baa_150x48.png"
+          },
+          "images": [
+            "//s17.mogucdn.com/mlcdn/c45406/170920_07kdab54503ab49hcjebg01f482ga_472x542.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/170920_88eeh84h368ahccc834d97glbeibe_547x555.jpg"
+          ],
+          "rateId": "1xcbupm",
+          "content": "很喜欢这样的款式，穿起来很有范，物美价廉，质量很好，推荐！！！",
+          "created": 1505878000,
+          "isAnonymous": 1,
+          "style": "颜色:酒红色 尺码:均码 ",
+          "isEmpty": 0,
+          "level": "",
+          "canExplain": false
+        }
+      ],
+      "cRate": 2
+    },
+    "isLogin": false,
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>"
+  }
+}
