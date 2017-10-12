@@ -11,6 +11,8 @@ Vue.use(router)
 
 Vue.config.productionTip = false
 
+require('./mock.js')
+
 /* eslint-disable no-new */
 /*new Vue({
   el: '#app',
